@@ -35,6 +35,13 @@ FILES
 The database files are to be found in the folder: `base_dados-original`
 Through the database, it was possible to generate (.arff) files which can be opened and analyse with Weka software. 
 
+CREDITS
+--------------------------------------------------
+- Hamilton Gonçalves Junior
+- Luan Gustavo Orlandi
+- Maiser José Alves Oliva
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 You can find more information in the files: `project report.pdf` and `specification.pdf`.
